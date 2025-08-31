@@ -33,7 +33,7 @@ This portfolio site is built with HTML, CSS, and JavaScript. It features a dynam
 ├─ profile-pic.png <br>
 └─ ...other images <br>
 📁 RESUME/  ├─ PRANAV PATIL R.pdf <br>
-            └─ PRANAV PATIL RESUME.pdf <br>
+                               └─ PRANAV PATIL RESUME.pdf <br>
 index.html <br>
 style.css <br>
 script.js<br>
