@@ -28,17 +28,17 @@ This portfolio site is built with HTML, CSS, and JavaScript. It features a dynam
 
 ## 🏗️ Project Structure
 
-📁 IMG/ 
+📁 IMG/ <br>
 ├─ banner.png  <br>
-├─ profile-pic.png 
-└─ ...other images 
-📁 RESUME/  ├─ PRANAV PATIL R.pdf 
-            └─ PRANAV PATIL RESUME.pdf 
-index.html 
-style.css 
-script.js
-└─ settings.json z-command/ 
-└─ com.js
+├─ profile-pic.png <br>
+└─ ...other images <br>
+📁 RESUME/  ├─ PRANAV PATIL R.pdf <br>
+            └─ PRANAV PATIL RESUME.pdf <br>
+index.html <br>
+style.css <br>
+script.js<br>
+└─ settings.json z-command/ <br>
+└─ com.js<br>
 
 
 ---
