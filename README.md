@@ -29,7 +29,7 @@ This portfolio site is built with HTML, CSS, and JavaScript. It features a dynam
 ## 🏗️ Project Structure
 
 📁 IMG/ 
-├─ banner.png 
+├─ banner.png  <br>
 ├─ profile-pic.png 
 └─ ...other images 
 📁 RESUME/  ├─ PRANAV PATIL R.pdf 
