@@ -1,6 +1,10 @@
 # 🏡 Portfolio Website [FrontEnd]
 
+GitHub Live URL
 https://lab-dev-pranav.github.io/_MY_PORTFOLIO____fe/
+
+Render Live URL
+https://dev-pranav2.onrender.com/
 
 A modern, responsive personal portfolio platform for showcasing skills, projects, experience, and contact information.
 
